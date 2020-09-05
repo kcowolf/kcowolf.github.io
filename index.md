@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# kcowolf's Projects
 
-You can use the [editor on GitHub](https://github.com/kcowolf/kcowolf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kcowolf/kcowolf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [x16-Columns](https://github.com/kcowolf/x16-Columns) - Remake of Sega's classic puzzle game for the [Commander X16](https://www.commanderx16.com).
+- [GenScrollingMapDemo](https://github.com/kcowolf/GenScrollingMapDemo) - Scrolling map code for the Sega Genesis.  Handles eight-way scrolling for a map of arbitrary size, and shows how two layers can be scrolled at different rates.
+- [GenBackgroundEffectsDemo](https://github.com/kcowolf/GenBackgroundEffectsDemo) - Demonstration of Earthbound's battle background effects on the Sega Genesis.
